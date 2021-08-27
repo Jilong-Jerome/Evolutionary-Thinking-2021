@@ -10,4 +10,10 @@ Pen and Paper exercises
 
 45 min group works with your peers before starting checking the answers.
 
+HINTs:
+
+1.Meaning of the nodes and branches in a phylogenic tree.
+
+2.Concept of "Common Ancestor"
+
 [Solutions](https://docs.google.com/document/d/1gca29t0lDALeHBa5VoLKm_OJs6BO720adv7xBndXyA4/edit?usp=sharing) to the pretest
