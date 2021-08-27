@@ -16,14 +16,9 @@ HINTs:
 
 2.Concept of "Common Ancestor"
 
-[Solutions](https://docs.google.com/document/d/1gca29t0lDALeHBa5VoLKm_OJs6BO720adv7xBndXyA4/edit?usp=sharing) to the pretest.
+[Solutions](https://docs.google.com/document/d/1gca29t0lDALeHBa5VoLKm_OJs6BO720adv7xBndXyA4/edit?usp=sharing) to the pretest
 
 ## MEGA X installation
-Following the guideline provided by [MEGA](https://www.megasoftware.net)
-
-Download the corresponding version to your system.
-
-
-
+Follow the guide from [MEGA](https://www.megasoftware.net) to download the corresponding version for your system.
 
 
