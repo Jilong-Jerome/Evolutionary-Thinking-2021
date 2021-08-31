@@ -51,7 +51,7 @@ There are some parts of the tutorial that are wrong. Here you have some fixies:
     You just have to click on **Summary** drop down menu (Fig1) and follow the next indications. Be aware that once you press **Fasta (text)** it automatically applies it, so you don't need to press any **Apply button**.
     
 
-    <img src="genbank_summary.png" width="50%">
+    <img src="genbank_summary.jpg" width="50%">
 
     >**Fig1.** Summary drop down menu location
 
