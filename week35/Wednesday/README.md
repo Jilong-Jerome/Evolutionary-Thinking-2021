@@ -108,9 +108,9 @@ I found these pairwise differences
 |       |  Human  |  Chimp  |  Goril  |
 |:-----:|--------:|--------:|--------:|
 | Human |         |         |         |
-| Chimp |       3 |         |         |
-| Goril |       4 |       3 |         |
-| Mouse |       4 |       3 |       4 |
+| Chimp |       2 |         |         |
+| Goril |       2 |       0 |         |
+| Mouse |       3 |       1 |       1 |
 
 6. Export your alignments in **.meg** (MEGA) format. Remember: Data > Export Alignment > MEGA format
 
