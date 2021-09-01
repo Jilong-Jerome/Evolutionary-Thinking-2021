@@ -90,14 +90,14 @@ Once you made your mind about which sequence you are going to work on...
 1. Retrieve sequences directly form GenBank or search for homology in BLAST to select your sequences. In my case I selected the Chimp, Gorilla and Mouse sequences to compare. 
 2. Align the DNA sequences. Try to change some options before running the alignment and see how this changes your output. Do you see many gaps? What about base substitutions? Get a feeling of how good or how bad those sequences align. 
 
-I found these pairwise differences
+I found these pairwise differences(See below about how to do this)
 
 |       |  Human  |  Chimp  |  Goril  |
 |:-----:|--------:|--------:|--------:|
 | Human |         |         |         |
-| Chimp |      11 |         |         |
-| Goril |      14 |      18 |         |
-| Mouse |     149 |     144 |     142 |
+| Chimp |      30 |         |         |
+| Goril |      31 |      8  |         |
+| Mouse |     152 |     139 |     133 |
 
 3. Right click on each sequence and click on **Delete Gaps** if the option is available. This will undo the alignment. 
 4. Select all DNA sequences and click on **Translated Protein Sequences**. This step will translate DNA sequences to protein sequences. 
