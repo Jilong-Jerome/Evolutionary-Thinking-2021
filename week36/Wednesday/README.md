@@ -1,4 +1,4 @@
-# Friday Week36
+# Wednesday Week36
 
 ## Work plan
 
