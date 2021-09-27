@@ -1,4 +1,4 @@
-# Friday Week40
+# Friday Week39
 
 ## Work plan
 
