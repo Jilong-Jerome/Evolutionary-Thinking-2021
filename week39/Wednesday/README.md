@@ -1,8 +1,6 @@
-# Friday Week39
+# Wednesday Week39
 
 ## Work plan
-
-The TA session is going to be streamed through zoom. The link is going to be posted in this week Material directory in Black Board 10-5 min before the TA starts. 
 
 ### 1. Wright-Fisher model simulations and Coalescence simulations
 
