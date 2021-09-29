@@ -1,4 +1,4 @@
-###### This tutorial was obtained from [Fernando Racimo's GitHub](https://github.com/FerRacimo/CopenhagenTutorial/blob/master/CoalTutorial.md). I modified the original version to fit the tutorial to my class needs. 
+###### This tutorial was obtained from [Fernando Racimo's GitHub](https://github.com/FerRacimo/CopenhagenTutorial/blob/master/CoalTutorial.md). Moise modified the original version to fit the tutorial to th class needs. 
 
 Exercises in coalescent theory
 ===============
