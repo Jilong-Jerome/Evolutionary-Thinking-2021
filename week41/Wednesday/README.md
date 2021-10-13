@@ -70,8 +70,8 @@ In the section *Adaptive evolution* in [scan 1](scan1.pdf) and [scan 2](scan2.pd
 
 ##### How do they compare to your results? If you get different results, why do you think that happens? 
 
-### 2. Finish with exercises from Nielsen and Slatkin or make 2 Kahoot! questions
-
+### 2. Finish with exercises from Nielsen and Slatkin
+ 
 ### Other Materials: Revising D and D' to quantify Linkage Disequilibrium
 
 You can check the [PDF](linkage.pdf) explaining exercise 6.1 from Nielsen and Slatkin's book.
