@@ -2,13 +2,7 @@
 
 ## Work plan 
 
-### 1. Revising D and D' to quantify Linkage Disequilibrium
-
-In class I'll explain how to calculate D and D' and the most important insight I've got from these two statistics. 
-
-You can check the [PDF](linkage.pdf) explaining exercise 6.1 from Nielsen and Slatkin's book that I'll use. Here you also have the document in [Rmd](linkage.Rmd) in case you want to play with the code bits.
-
-### 2. MEGAX exercise to analyze patterns of synonymous vs. non–synonymous substitutions  
+### 1. MEGAX exercise to analyze patterns of synonymous vs. non–synonymous substitutions  
 
 Learning goals of this computer session:
 
@@ -76,5 +70,9 @@ In the section *Adaptive evolution* in [scan 1](scan1.pdf) and [scan 2](scan2.pd
 
 ##### How do they compare to your results? If you get different results, why do you think that happens? 
 
-### 3. Finish with exercises from Nielsen and Slatkin or make 2 Kahoot! questions
+### 2. Finish with exercises from Nielsen and Slatkin or make 2 Kahoot! questions
 
+### Other Materials: Revising D and D' to quantify Linkage Disequilibrium
+
+You can check the [PDF](linkage.pdf) explaining exercise 6.1 from Nielsen and Slatkin's book.
+Here you also have the document in [Rmd](linkage.Rmd) in case you want to play with the code bits.
