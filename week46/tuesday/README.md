@@ -8,3 +8,6 @@ Rokas et al. [Genome-scale approaches to resolving incongruence in molecular phy
 
 Salichos & Rokas. [Inferring ancient divergences requires genes with strong phylogenetic signals](https://www.nature.com/articles/nature12130). Nature, 2013.
 
+
+Link to questions:
+https://docs.google.com/document/d/1grFV9Kx7idfEQ9_L1m-ls1GC7XyEbPZzqbT2ulAmywk/edit
