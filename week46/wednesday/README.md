@@ -1,4 +1,4 @@
-# Friday Week47
+# Wednesday Week46
 
 ## Work plan
 For this week's exercize, we will study the effect of protein evolution on tree inference. We will calculate the amino acid substitution matrix 
